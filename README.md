@@ -1,2 +1,2 @@
 # machine-learning
-Python with machine learning for product classification
+Machine Learning With Python.
